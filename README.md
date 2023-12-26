@@ -6,7 +6,7 @@
 > 4º Desafio sobre responsividade do curso Explorer da Rocketseat.
 
 ## Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/formulario-avaliar/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/pagina-responsiva/)
 
 ## 🛠 Tecnologias
 > Tecnologias usadas para desenvolver o formulário
