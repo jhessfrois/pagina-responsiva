@@ -1,6 +1,6 @@
 # Página Responsiva
 
-![preview](https://i.imgur.com/7elXCMe.png)
+![preview](https://i.imgur.com/plrmn6B.png)
 ![preview](https://i.imgur.com/YbCjv6o.png)
 
 > 4º Desafio sobre responsividade do curso Explorer da Rocketseat.
