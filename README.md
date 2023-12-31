@@ -9,7 +9,7 @@
 [🔗 Clique aqui para acessar](https://jhessfrois.github.io/pagina-responsiva/)
 
 ## 🛠 Tecnologias
-> Tecnologias usadas para desenvolver o formulário
+> Tecnologias usadas para desenvolver a página
 
 - HTML
 - CSS
